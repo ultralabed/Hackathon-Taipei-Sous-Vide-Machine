@@ -1,7 +1,7 @@
 # Taipei-Hackathon-Sous-Vide-Machine
 2015 Taipei Hackathon Sous Vide Machine(舒肥機)
 
-** 主要功能 **
+** Main features **
 
   *  Use the sous vide app to control the machine
 
